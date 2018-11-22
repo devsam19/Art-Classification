@@ -12,3 +12,9 @@ Dataset link
   <li>Training - https://drive.google.com/open?id=1bWhQO4SxzPKz40vxmVOdZKji7yk0eyFd</li>
   <li>Validation - https://drive.google.com/open?id=1Noc3RI2vhheLxzmioP0w1rQDV0C2LxMa</li>
 </ol>
+
+
+How to add conv layers
+<ol>
+  <li>https://github.com/TheShadow29/FAI-notes/blob/master/notebooks/Using-Pretrained-Pytorch-Models.ipynb</li>
+</ol>
