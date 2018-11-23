@@ -18,3 +18,18 @@ How to add conv layers
 <ol>
   <li>https://github.com/TheShadow29/FAI-notes/blob/master/notebooks/Using-Pretrained-Pytorch-Models.ipynb</li>
 </ol>
+
+art_classification(ResHalf)
+
+<ol>
+  <li>
+    Batch Size = 4
+  </li>
+  <li>
+    Number of layers freezed = 7
+  </li>
+  <li>
+    Optimizer used -  SGD 
+  </li>
+ </ol>
+ 
