@@ -33,7 +33,7 @@ art_classification(ResHalf)
   </li>
  </ol>
  
-<br>Project documentation link:<br/>
+<b>Project documentation link:</b>
 <ol>
   <li> https://docs.google.com/document/d/1posEq02ciGDCIuzvmX1JeN76S2UQmPZDqPVt5UagC9s/edit?usp=sharing </li>
 </ol>
