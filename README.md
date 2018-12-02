@@ -41,6 +41,11 @@ art_classification(ResHalf)
 <b> Accuracies on freezing layers</b>
 <ol>
   <li>All layer freeze: art_classification_all_layer_freeze.ipythn <br/>
-   Training complete in 14m 31s<br/>
-   Best val Acc: 0.885514</li>
+Training complete in 15m 58s<br/>
+Best val Acc: 0.956776
+</li>
+  
+   <li>7 layer freeze: art_classification(Adam) <br/>
+   Training complete in 15m 16s<br/>
+   Best val Acc: </li>
 <ol>
