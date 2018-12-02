@@ -50,3 +50,6 @@ Best val Acc: 0.885514
 Training complete in 15m 58s<br/>
 Best val Acc: 0.956776</li>
 <ol>
+
+<h2> ResNETs Branch </h2>
+Contains multiple  files ,each distinguished by number of freezed layers
