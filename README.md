@@ -64,7 +64,7 @@ Stride = 2 for odd numbered layers and 1 for even numbered layers
 
 Note : There are 5 blocks of layers each holding 2 Convolution layers and 2 Pooling Layers.
 
-Input image size : 256*256*3
+Input image size : 256 * 256 * 3
 
 Output
 <ol>
