@@ -50,3 +50,26 @@ Best val Acc: 0.885514
 Training complete in 15m 58s<br/>
 Best val Acc: 0.956776</li>
 <ol>
+  
+<h2>DCNN -10 Layer</h2>
+Number of Convolution Layers : 10
+Kernel Size : 5*5
+Padding Size : 2
+Stride = 1
+
+MaxPooling
+Kernel Size : 5*5
+Padding Size : 2
+Stride = 2 for odd numbered layers and 1 for even numbered layers
+
+Note : There are 5 blocks of layers each holding 2 Convolution layers and 2 Pooling Layers.
+
+Input image size = 256*256*3
+
+Output
+
+Block 1 : 128*128*64
+Block 2 : 64*64*128
+Block 3 : 32*32*256
+Block 4 : 16*16*512
+Block 5 : 16*16*512
