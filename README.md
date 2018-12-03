@@ -72,5 +72,5 @@ Output
 <li>Block 2 : 64*64*128</li>
 <li>Block 3 : 32*32*256</li>
 <li>Block 4 : 16*16*512</li>
-<li>Block 5 : 16*16*512</li>
+<li>Block 5 : 8*8*512</li>
 </ol>
